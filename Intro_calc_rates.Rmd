@@ -415,7 +415,7 @@ Comparison of  populations with different age structures
     + Age standardized rates
     + Standardized incidence ration (SIR)
     
-Age standardization of global incidences
+Age standardization of global incidences 
 ===============================
 
 
