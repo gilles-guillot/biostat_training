@@ -1,0 +1,22 @@
+---
+title: "Calculation of rates"
+author: | 
+  | Gilles Guillot
+  | IPRI
+date: |
+  | `r format(Sys.time())`
+output: 
+  beamer_presentation: 
+# theme: "Default"
+colortheme: "beetle"
+fonttheme: "structurebold"
+header-includes:
+   - \usepackage{amsmath}
+   - \usepackage{manfnt}
+   - \definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+   - \setbeamercolor{math text}{fg=OliveGreen}
+includes:
+      in_header: header_pagenrs.tex
+---
+
+
